@@ -1,12 +1,14 @@
-##Project Overview
-**Pastel Dreams Bakery** is an interactive web application designed to simulate a magical online bakery experience. The project focuses on combining creativity, usability, and modern web technologies to provide users with an engaging platform where they can explore beautiful cake designs and place custom orders.
+**Project Overview**
+
+**🎂 Pastel Dreams Bakery** is an interactive web application designed to simulate a magical online bakery experience. The project focuses on combining creativity, usability, and modern web technologies to provide users with an engaging platform where they can explore beautiful cake designs and place custom orders.
 
 Unlike typical static websites, this application introduces a dreamy pastel aesthetic with elegant design elements and interactive features to create a memorable digital bakery experience.
 
 This project was developed as part of a university coursework project to demonstrate practical knowledge of modern web design technologies and interactive web development.
 
 
-##Website Theme
+**Website Theme**
+
 The website follows a custom creative theme called “Pastel Dreams Bakery.”
 
 The theme is inspired by a magical bakery environment with the following design elements:
@@ -24,7 +26,7 @@ Smooth scrolling and visual effects
 The goal is to create an emotional and visually appealing experience where users feel connected to the cakes and the bakery atmosphere.
 
 
-##Purpose of the Web Application
+**Purpose of the Web Application**
 
 The main objectives of this web application are:
 
@@ -46,8 +48,8 @@ The system focuses on:
 - Interactive user experience
 
 
-##Main Features
-###Core Website Features
+
+**Core Website Features**
 
 The website consists of three main pages:
 
@@ -72,55 +74,60 @@ To enhance interactivity, the website includes several JavaScript-based features
 
 1. Interactive Image Slider
 
-Displays featured cakes on the home page
+   Displays featured cakes on the home page
 
-Supports automatic and manual transitions
+   Supports automatic and manual transitions
 
 2. Cake Filtering System
-Users can filter cakes by category such as:
+   
+   Users can filter cakes by category such as:
 
-Birthday cakes
+    -Birthday cakes
 
-Wedding cakes
+    -Wedding cakes
 
-Chocolate cakes
+    -Chocolate cakes
 
-Custom cakes
+    -Custom cakes
 
 3. Popup Modal System
-Users can click on a cake to view more details in a popup window.
+   
+   Users can click on a cake to view more details in a popup window.
 
-4. Form Validation
-The order form validates:
+5. Form Validation
+   
+  The order form validates:
 
-Name
+  Name
 
-Phone number
+  Phone number
 
-Order date
+  Order date
 
-Required fields
+  Required fields
 
 This ensures users submit correct information.
 
 5. Magical Order Confirmation (Unique Feature)
-When a user submits an order:
+   
+   When a user submits an order:
 
-A magical animation appears
+   A magical animation appears
 
-A success message confirms the order submission
+   A success message confirms the order submission
 
 6. Animations and Smooth Effects
-The website includes:
+   
+   The website includes:
 
-Fade-in animations
+   Fade-in animations
 
-Smooth page transitions
+   Smooth page transitions
 
-Interactive UI effects
+   Interactive UI effects
 
 
-##Target Audience
+**Target Audience**
 
 The website is designed mainly for:
 
@@ -135,7 +142,7 @@ Event planners looking for cake inspiration
 The visual design (pastel colors with black and gold accents) appeals especially to users aged 16–35 years.
 
 
-##How to Use the Website
+**How to Use the Website**
 
 Open the Home Page
 
